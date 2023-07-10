@@ -1,0 +1,167 @@
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.exe
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.deps.json
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.runtimeconfig.json
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.pdb
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.AssemblyReference.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.LoginAdmin.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.GenerateResource.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfoInputs.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfo.cs
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CoreCompileInputs.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CopyComplete
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\refint\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.pdb
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.genruntimeconfig.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\ref\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.QuanLiBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.DoiMatKhau.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTAcount.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTKhachHang.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongTinAdmin.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongtinBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThueBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TraBoardGame.resources
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.exe
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.deps.json
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.runtimeconfig.json
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.pdb
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.AssemblyReference.cache
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.DoiMatKhau.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.LoginAdmin.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.Properties.Resources.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.QuanLiBoardGame.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongTinAdmin.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongtinBoardGame.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThueBoardGame.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TraBoardGame.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTAcount.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTKhachHang.resources
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.GenerateResource.cache
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfoInputs.cache
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfo.cs
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CoreCompileInputs.cache
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CopyComplete
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.dll
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\refint\APP.dll
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.pdb
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.genruntimeconfig.cache
+C:\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\ref\APP.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\APP.exe
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\APP.deps.json
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\APP.runtimeconfig.json
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\APP.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\APP.pdb
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.AssemblyReference.cache
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.DoiMatKhau.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.LoginAdmin.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.Properties.Resources.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.QuanLiBoardGame.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongTinAdmin.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongtinBoardGame.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThueBoardGame.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.TraBoardGame.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTAcount.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTKhachHang.resources
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.GenerateResource.cache
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfoInputs.cache
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfo.cs
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CoreCompileInputs.cache
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CopyComplete
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\refint\APP.dll
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.pdb
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\APP.genruntimeconfig.cache
+C:\Users\hthan\Downloads\APP\APP\APP\APP\obj\Debug\net6.0-windows\ref\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.AssemblyReference.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.DoiMatKhau.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.LoginAdmin.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.Properties.Resources.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.QuanLiBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongtinBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThueBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TraBoardGame.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTAcount.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.TTKhachHang.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.GenerateResource.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\refint\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.pdb
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.exe
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.deps.json
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.runtimeconfig.json
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\APP.pdb
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.ThongTinAdmin.resources
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfoInputs.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.AssemblyInfo.cs
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CoreCompileInputs.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.csproj.CopyComplete
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\APP.genruntimeconfig.cache
+C:\Users\hongp\OneDrive\Desktop\Do An\DoAnNMCNPM\New folder\Boardgame\APP\APP\APP\obj\Debug\net6.0-windows\ref\APP.dll

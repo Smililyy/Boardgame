@@ -8,10 +8,10 @@ if (!isset($_SESSION['username'])) {
     exit;
 }
 
-$uname = $_SESSION['username'];
+$username = $_SESSION['username'];
 
 // Lấy thông tin cá nhân của người dùng
-$select_query = "SELECT * FROM customers WHERE USERNAME= '$uname'";
+$select_query = "SELECT * FROM customers WHERE USERNAME= '$username'";
 $result = mysqli_query($conn, $select_query);
 
 if (mysqli_num_rows($result) > 0) {
@@ -26,8 +26,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $password = mysqli_real_escape_string($conn,$_POST['password']);
  
   // Cập nhật thông tin vào CSDL
-  $sql = "UPDATE customers SET HOTEN='$name', email='$email', sdt='$phone', password='$password' WHERE username='$uname'";
+  $sql = "UPDATE customers SET HOTEN='$name', email='$email', sdt='$phone', password='$password' WHERE username='$username'";
 }
+
+ //Lấy thông tin điểm tích lũy
+ $select_query_score = "SELECT * FROM tich_diem WHERE USERNAME= '$username'";
+ $result_score = mysqli_query($conn, $select_query_score);
+
+ if (mysqli_num_rows($result_score) > 0) {
+     $score= mysqli_fetch_array($result_score);
+  // Lấy thông tin đơn hàng và số điểm đã sử dụng
+  $select_query_score_used = "SELECT * FROM thue WHERE USERNAME= '$username'";
+  $result_score_used = mysqli_query($conn,$select_query_score_used);
+ 
+ }
 ?>
 
 <!DOCTYPE html>
@@ -52,17 +64,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           <a href="#">Thể loại</a>
           <!-- Thêm danh sách cho mục "Thể loại" -->
           <ul class="sub-menu">
-            <li><a href="#">Card Games</a></li> 
-            <li><a href="#">Dice Games</a></li> 
-            <li><a href="#">Chess</a></li> 
-            <li><a href="#">Family</a></li> 
-            <li><a href="#">Living Card Games</a></li> 
-            <li><a href="#">Deckbuilders</a></li> 
-            <li><a href="#">Wargame & Strategy</a></li> 
-            <li><a href="#">Cooperative</a></li> 
-            <li><a href="#">Dungeon Crawl & Minis</a></li> 
-            <li><a href="#">Party Games</a></li> 
-            <li><a href="#">Star Wars</a></li> 
+            <li><a href="cardgame.php">Card Games</a></li> 
+            <li><a href="dicegame.php">Dice Games</a></li> 
+            <li><a href="chess.php">Chess</a></li> 
+            <li><a href="family.php">Family</a></li> 
+            <li><a href="livingcardgame.php">Living Card Games</a></li> 
+            <li><a href="deckbuilders.php">Deckbuilders</a></li> 
+            <li><a href="wargame&strategy.php">Wargame & Strategy</a></li> 
+            <li><a href="cooperative.php">Cooperative</a></li> 
+            <li><a href="dungeoncral&minis.php">Dungeon Crawl & Minis</a></li> 
+            <li><a href="partygames.php">Party Games</a></li> 
+            <li><a href="starwars.php">Star Wars</a></li>  
           </ul>
         </li>
         <li><a href="contact.php">Liên hệ</a></li>
@@ -90,7 +102,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           <div class="cart-icon">
           <a href="cart.php">
             <i class="fas fa-shopping-cart"></i>
-            <span class="cart-count">0</span>
+            <span class="cart-count">
+            <?php
+              // Kết nối cơ sở dữ liệu và thực hiện truy vấn
+              include 'connect.php';
+              $query = "SELECT SUM(quantity) AS totalQuantity FROM carts";
+              $result = mysqli_query($conn, $query);
+              $row = mysqli_fetch_assoc($result);
+              $cartItemCount = $row['totalQuantity'];
+              
+              // Hiển thị tổng số sản phẩm trong giỏ hàng
+              echo $cartItemCount;
+            ?>
+          </span>
           </a>
           </div>
   </header>
@@ -172,7 +196,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                   <label for="phone">Số điện thoại:</label>
                   <input type="tel" id="phone" name="phone" value="<?php echo $userInfo['sdt']; ?>" required>
                 </div>
-
+                
                 <div class="form-group">
                   <label for="password">Mật khẩu:</label>
                   <input type="password" id="password" name="password" required>
@@ -180,9 +204,66 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <button type="submit" class="btn-submit">Cập nhật thông tin</button>
               </form>
             </div>
+            <div id="points" class="content-item">
+              <!-- Nội dung cho Xem tích điểm cá nhân -->
+              <h2>Xem tích điểm cá nhân</h2>
+                <p><strong>Tên người dùng:</strong> <?php echo $score['USERNAME']; ?></p>
+                <p><strong>Số điểm tích lũy:</strong> <?php echo $score['diem']; ?></p>
+                <?php
+                  if (mysqli_num_rows($result_score_used) > 0) {
+                
+                   echo "<table>";
+                    echo "<tr><th>Mã đơn hàng</th><th>Tổng tiền</th><th>Số điểm tích lũy ban đầu</th><th>Số điểm tích lũy đã dùng</th><th>Số điểm tích lũy được cộng</th></tr>";
+                    while ($row = mysqli_fetch_assoc($result_score_used)) {
+                    $score_before = $row['diem'] + $score['diem'];
+                    $score_new = intval($row['TONGTIEN'] / 10.000);
+                    echo "<tr>";
+                    echo "<td>" . $row['ID_THUE'] . "</td>";
+                    echo "<td>" . $row['TONGTIEN'] . "</td>";
+                    echo "<td>" . $score_before . "</td>";
+                    echo "<td>" . $row['diem'] . "</td>";
+                    echo "<td>" . $score_new . "</td>";
+                    echo "</tr>";
+                    }
+                    echo "</table>";
+                  } else {
+                      echo "Không tìm thấy thông tin điểm cho người dùng $username";
+                  }
+                ?>
+            </div>
+            <div id="logout" class="content-item">
+                <a href="confirm_logout.php">Click vào đây để đăng xuất</a>
+            </div>
+
         </div>
     </div> 
     <script src="account.js"></script>
+    <!-- end main -->
+    <div id="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="footer-col">
+                            <h4>Thông tin</h4>
+                            <ul>
+                                <li><a href="contact.php">Liên hệ</a></li>
+                                <li><a href="policy.php">Chính sách</a></li>
+                                <li><a href="https://www.google.com/maps/search/Duong+Hàn+Huyên,+Khu+pho+6,+Phuong+Linh+Trung,+Tp.Thù+Đức,+Tp.HCM"  target="_blank"Đường Hàn Huyên, Khu phố 6, Phường Linh Trung, Tp.Thủ Đức, Tp.HCM>Địa chỉ</a></li>
+                                <li><a href="respond.php">Phản hồi</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-col">
+                            <h4>Theo dõi chúng tôi</h4>
+                            <div class="social-links">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+         <!-- end foooter -->
 </body>
 
 </html>

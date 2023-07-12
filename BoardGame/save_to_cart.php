@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $insert_query = "INSERT INTO carts (MASP, TENSP, GIA, quantity, username) VALUES ('$masp', '$name_product', '$gia', '$soluong', '$username')";
         mysqli_query($conn, $insert_query);
     }
-    header('location: index.php');
+    header('Location: ' . $_SERVER['HTTP_REFERER']);
 }
 
 

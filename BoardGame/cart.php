@@ -129,6 +129,10 @@
                     <label class="cart" style="width: 50%;">Số điện thoại:</label>
                     <input type="text" class="form-control" style="border: none; outline: none; width: 100%;" id="phone" name="phone" required>
                 </div>
+                <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+                <label class="cart" style="width: 50%;">Số điểm quy đổi: ( 10.000 vnđ= 1 điểm )</label>
+                <input type="text" class="form-control" style="border: none; outline: none; width: 100%;" id="point" name="point" required>
+                </div>
                 </div>
                 <button type="submit" class="btn">Lưu <i class="fas fa-shopping-cart"></i></button>
             </form>

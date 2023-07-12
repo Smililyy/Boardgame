@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trang chủ | BoardGame</title>
-    <link rel="stylesheet" href="CSS/home.css">
+    <link rel="stylesheet" href="home.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <header>
@@ -75,8 +75,13 @@
 </div>
   </header>
         <!-- end header -->
-        <!-- 1 --> 
-        <div class="bang-sron">
+        <div id="main">
+            <div class="container">
+                    <div class="banner">
+                        <img src="Sanpham/banner.jpg" alt="">
+                    </div>            
+               <!-- 1 --> 
+               <div class="bang-sron">
                     <h2 class="new-arrival">HÀNG MỚI VỀ!</h2> 
                     <div class="title">
                     </div>
